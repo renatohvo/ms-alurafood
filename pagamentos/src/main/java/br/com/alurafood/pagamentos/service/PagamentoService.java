@@ -46,6 +46,7 @@ public class PagamentoService {
         Pagamento pagamento = modelMapper.map(dto, Pagamento.class);
         pagamento.setId(id);
         pagamento = repository.save(pagamento);
+
         return modelMapper.map(pagamento, PagamentoDto.class);
     }
 
