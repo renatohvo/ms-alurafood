@@ -1,7 +1,7 @@
 # Curso de Microsserviços da Alura
 
 ## Sobre o projeto
-[Link Postman Collection](https://elements.getpostman.com/redirect?entityId=21956516-5f3e06fe-78fd-43c6-a6c0-61076be344f5&entityType=collection "Link Postman Collection")
+[Link Postman Collection](https://elements.getpostman.com/redirect?entityId=21956516-d3fab6b8-6fa9-483c-82c0-410d10f22563&entityType=collection "Link Postman Collection")
 
 Microsserviços de Pedidos & Pagamentos com Java & Spring Framework.
 
