@@ -16,10 +16,11 @@ Em Construção.
 - Java
 - Spring Framework
 - JPA / Hibernate
-- Lombok
-- ModdelMapper
 - DTO
 - Maven
+- Lombok
+- ModdelMapper
+- Resilience4j
 - MySQL
 - Flyway
 - Postman
