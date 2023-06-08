@@ -1,11 +1,10 @@
 # Curso de Microsserviços da Alura
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/renatohvo/ms-alurafood/blob/main/LICENSE) 
 
 ## Sobre o projeto
 [Link Postman Collection](https://elements.getpostman.com/redirect?entityId=21956516-d3fab6b8-6fa9-483c-82c0-410d10f22563&entityType=collection "Link Postman Collection")
 
 Microsserviços de Pedidos & Pagamentos com Java & Spring Framework.
-
-Em Construção.
 
 [Alura](https://www.alura.com.br/curso-online-microsservicos-implementando-java-spring "https://www.alura.com.br/curso-online-microsservicos-implementando-java-spring") - [Jacqueline Oliveira](https://github.com/jacqueline-oliveira "@jacqueline-oliveira")
 
